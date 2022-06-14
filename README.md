@@ -1,6 +1,6 @@
 # recsys
 
 If user == new :<br />
-  &nbsp;show movies based on genre selection<br />
+  &nbsp;&nbsp;&nbsp;show movies based on genre selection<br />
 else:<br />
-  &nbsp;show movies via recsys<br />
+  &nbsp;&nbsp;&nbsp;show movies via recsys<br />
